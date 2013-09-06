@@ -2,7 +2,7 @@
 This example shows how the ManyWho Gem can be used to run a flow within Ruby - on Heroku.  It's a basic
 example - but hopefully provides a starting point for embedding ManyWho Flows into Heroku applications.
 
-A running example can be found at: https://sheltered-eyrie-7183.herokuapp.com
+A running example can be found at: https://mighty-cliffs-6349.herokuapp.com
 
 ## How To Use This Demo
 #### Information required to run a flow.
