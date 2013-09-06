@@ -16,7 +16,7 @@ permissions and limitations under the License.
 
 require 'sinatra'
 require 'haml'
-require 'manywho'
+require 'manywho-sdk'
 require 'rack-ssl-enforcer'
 use Rack::SslEnforcer
 
