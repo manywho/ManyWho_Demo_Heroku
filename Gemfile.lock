@@ -3,7 +3,7 @@ GEM
   specs:
     haml (4.0.3)
       tilt
-    manywho-sdk (1.0.0)
+    manywho-sdk (1.0.1)
     rack (1.5.2)
     rack-ssl-enforcer (0.2.5)
     sinatra (1.1.0)
@@ -16,6 +16,6 @@ PLATFORMS
 
 DEPENDENCIES
   haml (= 4.0.3)
-  manywho-sdk (= 1.0.0)
+  manywho-sdk (= 1.0.1)
   rack-ssl-enforcer (= 0.2.5)
   sinatra (= 1.1.0)
