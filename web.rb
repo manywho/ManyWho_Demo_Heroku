@@ -21,7 +21,7 @@ require 'rack-ssl-enforcer'
 use Rack::SslEnforcer
 
 # Initialize the Manywho engine
-Engine = Manywho::Engine.new()
+Engine = ManyWho::Engine.new()
 
 # Show the index page
 get '/' do
