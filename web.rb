@@ -1,8 +1,8 @@
 =begin
 
-Copyright 2013 Manywho, Inc.
+Copyright 2013 ManyWho, Inc.
 
-Licensed under the Manywho License, Version 1.0 (the "License"); you may not use this
+Licensed under the ManyWho License, Version 1.0 (the "License"); you may not use this
 file except in compliance with the License.
 
 You may obtain a copy of the License at: http://manywho.com/sharedsource
@@ -20,7 +20,7 @@ require 'manywho-sdk'
 require 'rack-ssl-enforcer'
 use Rack::SslEnforcer
 
-# Initialize the Manywho engine
+# Initialize the ManyWho engine
 Engine = ManyWho::Engine.new()
 
 # Show the index page
