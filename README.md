@@ -15,3 +15,7 @@ The *Username* and *Password* contain the login details to log into a flow. Thes
 
 #### Running a flow
 From the index page (which can be accessed using the above link) click the *Run a flow!* link, and enter the required fields (which can be found using the information above).
+
+If you'd like to try a very simple demo we used with our Twilio implementation:
+*Tenant Id*: 80c1a97a-e31c-4ab1-a279-9742af17f31d
+*Flow Id*: a69de2d8-794a-44bc-be85-76da973d24aa
