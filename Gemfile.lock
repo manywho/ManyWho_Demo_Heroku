@@ -1,7 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    haml (4.0.3)
+      tilt
+    manywho-sdk (1.0.0)
     rack (1.5.2)
+    rack-ssl-enforcer (0.2.5)
     sinatra (1.1.0)
       rack (~> 1.1)
       tilt (~> 1.1)
@@ -11,4 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  haml (= 4.0.3)
+  manywho-sdk (= 1.0.0)
+  rack-ssl-enforcer (= 0.2.5)
   sinatra (= 1.1.0)
