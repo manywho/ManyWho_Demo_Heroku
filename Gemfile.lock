@@ -5,7 +5,7 @@ GEM
       tilt
     manywho-sdk (1.0.4)
     rack (1.5.2)
-    rack-ssl-enforcer (0.2.5)
+    rack-ssl-enforcer (0.2.9)
     sinatra (1.1.0)
       rack (~> 1.1)
       tilt (~> 1.1)
@@ -17,5 +17,5 @@ PLATFORMS
 DEPENDENCIES
   haml (= 4.0.3)
   manywho-sdk (= 1.0.4)
-  rack-ssl-enforcer (= 0.2.5)
+  rack-ssl-enforcer (= 0.2.9)
   sinatra (= 1.1.0)
